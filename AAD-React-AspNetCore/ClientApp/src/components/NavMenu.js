@@ -53,7 +53,7 @@ export class NavMenu extends Component {
                {/* <Navbar className="navbar-expand-sm navbar-light bg-light"  light>*/}
                     {/*<Navbar className="navbar-expand-sm navbar-toggleable-sm ng-blue border-bottom box-shadow mb-3" Dark>*/}
                     <NavbarBrand tag={Link} to="/" className="text-custom">
-                        <img class="mr-2" src="/CTG.png" width="Auto" height="40" alt="avatar" />
+                        <img class="mr-2" src="/venu.png" width="Auto" height="40" alt="avatar" />
                     </NavbarBrand>
 
                     <Container>
